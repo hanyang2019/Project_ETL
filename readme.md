@@ -105,7 +105,7 @@ update_employee.to_csv('../H1B_Data/employee.csv',index=False)
 ```
 ---
 ## __postgreSQL DataBase__
-![ERD]('ERD.png')
+![ERD](https://github.com/hanyang2019/Project_ETL/blob/master/ERD.png?raw=true)
 All datasets (NAICS_CODE.csv, employee.csv and employer.csv) were stored into PostgresSQL database for further analysis. 
 ```SQL
 CREATE TABLE "NAICS_CODE" (
