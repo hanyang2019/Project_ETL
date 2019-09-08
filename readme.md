@@ -1,5 +1,6 @@
 ![H1B](https://images.techhive.com/images/article/2016/12/h-1b-visa9-100698034-large.jpg)
 # __H1B VISA PREDICTION__
+## __Developer: Han Yang and Monica Ramos__
 ## __Goal__
 To predict the approval rate of obtaining an H1B VISA in United States of America based on job industry sectors through availabe datasets of the most recent 4 fiscal years.
 
