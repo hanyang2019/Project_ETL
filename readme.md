@@ -38,7 +38,7 @@ results=soup.find_all('td',{'class':'noWrap'})
 code_url_list=[result.a['href'] for result in results]
 browser.quit()
 ```
-Use Pandas to scrape the full code table for each category and concatdenate them into a single tables.
+Use Pandas to scrape the full code table for each category and concatdenate them into a single tables (3 rows of code containing '-' were meaningless and deleted manually).
 ```python
 table_list=[]
 for url in code_url_list:
