@@ -5,6 +5,9 @@
 To predict the approval rate of obtaining an H1B VISA in United States of America based on job industry sectors through availabe datasets of the most recent 4 fiscal years.
 
 ---------
+## __Tool__
+Python postgreSQL
+___________
 ## __Data Source__
 1. [H1B VISA Datasets](https://www.kaggle.com/abishekanbarasan1995/h1b-case-status-prediction) 
 *	H-1B_Disclosure_RAW_Data_FY15.csv 
