@@ -6,7 +6,8 @@ To predict the approval rate of obtaining an H1B VISA in United States of Americ
 
 ---------
 ## __Tool__
-Python postgreSQL
+* Python 
+* postgreSQL
 ___________
 ## __Data Source__
 1. [H1B VISA Datasets](https://www.kaggle.com/abishekanbarasan1995/h1b-case-status-prediction) 
